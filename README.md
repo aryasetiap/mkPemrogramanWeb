@@ -1,6 +1,4 @@
-==================== <br>
-Hello world 👋 this is my univers 🌏 <br>
-Name : Arya Setia Pratama <br>
-NPM : 2215061034 <br>
-Study : Informatics Engineering <br>
-====================
+## 🚀 About Me
+I'm informatics engineering student
+Arya Setia Pratama
+2215061034
